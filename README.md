@@ -1,4 +1,4 @@
-### Creating a Image gallery using React & Tailwind
+## Creating a Image gallery using React & Tailwind
 
 
 
