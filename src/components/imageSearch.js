@@ -16,7 +16,7 @@ export const ImageSearch = ({ searchText }) => {
             onChange={(e) => setText(e.target.value)}
             className="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
             type="text"
-            placeholder="Search Image #tags"
+            placeholder="Search Images"
           />
           <button
             className="flex-shrink-0 bg-blue-300 hover:bg-blue-500 border-blue-500 hover:border-blue-700 text-md border-1 text-white py-2 px-3 rounded"
