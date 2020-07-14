@@ -18,7 +18,7 @@ export const App = () => {
       })
       .catch((err) => console.log(err));
   }, [term]);  
-  console.log('hits array:', images)
+  // console.log('hits array:', images)
 
   return (
     <div className="container mx-auto"> 
